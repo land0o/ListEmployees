@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.exe
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.deps.json
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.runtimeconfig.json
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.dll
+C:\Users\marla\workspace\c#\practice\employeesClasses\bin\Debug\netcoreapp3.0\employeesClasses.pdb
+C:\Users\marla\workspace\c#\practice\employeesClasses\obj\Debug\netcoreapp3.0\employeesClasses.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\practice\employeesClasses\obj\Debug\netcoreapp3.0\employeesClasses.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\practice\employeesClasses\obj\Debug\netcoreapp3.0\employeesClasses.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\practice\employeesClasses\obj\Debug\netcoreapp3.0\employeesClasses.dll
+C:\Users\marla\workspace\c#\practice\employeesClasses\obj\Debug\netcoreapp3.0\employeesClasses.pdb
